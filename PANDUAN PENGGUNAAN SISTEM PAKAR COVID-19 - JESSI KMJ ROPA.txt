@@ -1,0 +1,11 @@
+PANDUAN WEBSITE SISTEM PAKAR DIAGNOSIS COVID-19 BY JESSI KMJ ROPA
+
+METODE YANG DIGUNAKAN :
+-> FORWARD CHAINING UNTUK PENALARAN
+-> CERTAINTY FACTOR UNTUK PERHITUNGAN FAKTOR KEPASTIAN
+
+Nama database : sispakcovid.sql
+Framework yang digunakan : Codeigniter 3
+
+Untuk bisa mengakses website maka terlebih dahulu disetting configurasi codeigniter 3. 
+Password untuk akun admin : 123456
